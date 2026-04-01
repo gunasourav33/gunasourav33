@@ -1,8 +1,8 @@
 # Hi, I'm Guna Sourav 👋
 
-**Azure Cloud & DevOps Engineer · SRE · Azure Architect · DevSecOps**
+**Cloud & DevOps Engineer · SRE · Azure Architect · DevSecOps**
 
-5+ years designing and implementing scalable, secure cloud architectures on Azure — leading SRE practices, building CI/CD pipelines, and driving DevSecOps adoption across enterprise environments. Based in Frisco, TX.
+5+ years designing and implementing scalable, secure cloud architectures on AWS and Azure — leading SRE practices, building CI/CD pipelines, and driving DevSecOps adoption across enterprise environments. Based in Frisco, TX.
 
 **Highlights:**
 - 💰 $140K+ in annual cloud cost savings through FinOps optimization
@@ -14,13 +14,28 @@
 
 ## 🛠 Tech Stack
 
-**Azure Platform**
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**AWS Services**
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Azure Services**
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Key Vault](https://img.shields.io/badge/Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Defender for Cloud](https://img.shields.io/badge/Defender_for_Cloud-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 **CI/CD & GitOps**
@@ -35,6 +50,7 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure Bicep](https://img.shields.io/badge/Azure_Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
@@ -52,11 +68,6 @@
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 **Scripting & Languages**
 
@@ -82,7 +93,7 @@
 
 ## 🎓 Education
 
-**M.S. Business Analytics** — University of Texas at Dallas (UTD)  
+**M.S. Business Analytics** — University of Texas at Dallas (UTD)
 **B.Tech Computer Science** — GITAM University, India
 
 ---
