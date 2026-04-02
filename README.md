@@ -1,12 +1,12 @@
 # Hi, I'm Guna Sourav 👋
 **Cloud & DevOps Engineer · SRE · Azure Architect · DevSecOps**
 
-5+ years designing and implementing scalable, secure cloud architectures on AWS and Azure — leading SRE practices, building CI/CD pipelines, and driving DevSecOps adoption across enterprise environments. Based in Frisco, TX.
+5+ years building cloud infra on AWS and Azure — SRE, CI/CD pipelines, DevSecOps, and FinOps. Based in Frisco, TX.
 
 **Highlights:**
 - 💰 $140K+ in annual cloud cost savings through FinOps optimization
 - ⚡ Reduced MTTR from 95 → 28 minutes across 14 production services
-- 🚀 Accelerated environment provisioning from 5 days → 6 hours via Terraform IaC
+- 🚀 Cut environment provisioning from 5 days → 6 hours with Terraform IaC
 - 🔒 Passed 4 compliance audits with zero critical findings
 
 ---
