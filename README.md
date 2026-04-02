@@ -1,7 +1,7 @@
 # Hi, I'm Guna Sourav 👋
 **Cloud & DevOps Engineer · SRE · Azure Architect · DevSecOps**
 
-5+ years building cloud infra on AWS and Azure — SRE, CI/CD pipelines, DevSecOps, and FinOps. Based in Frisco, TX.
+Building cloud infra on AWS and Azure — SRE, CI/CD pipelines, DevSecOps, and FinOps. Based in Dallas, TX.
 
 **Highlights:**
 - 💰 $140K+ in annual cloud cost savings through FinOps optimization
