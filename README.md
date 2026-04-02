@@ -83,10 +83,10 @@
 |--------|--------------|
 | ✅ | AWS Certified Solutions Architect – Associate |
 | ✅ | AWS Certified Cloud Practitioner |
-| 🔄 | Microsoft Certified: Azure Administrator Associate (AZ-104) |
-| 🔄 | Microsoft Certified: Azure DevOps Engineer Expert (AZ-400) |
-| 🔄 | Microsoft Certified: Azure Solutions Architect Expert (AZ-305) |
-| 🔄 | Certified Kubernetes Administrator (CKA) |
+
+
+
+
 
 ---
 
