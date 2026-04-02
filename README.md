@@ -1,5 +1,4 @@
 # Hi, I'm Guna Sourav 👋
-
 **Cloud & DevOps Engineer · SRE · Azure Architect · DevSecOps**
 
 5+ years designing and implementing scalable, secure cloud architectures on AWS and Azure — leading SRE practices, building CI/CD pipelines, and driving DevSecOps adoption across enterprise environments. Based in Frisco, TX.
